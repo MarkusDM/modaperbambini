@@ -182,7 +182,7 @@
         right: 0;
         width: 1rem;
         height: 1rem;
-        background: url(../assets/images/icons/arrowww.svg) no-repeat center / 100%;
+        background: url(../images/icons/arrowww.svg) no-repeat center / 100%;
         position: absolute;
         transform: translate(0, -50%);
         content: '';
@@ -220,6 +220,7 @@
         text-transform: uppercase;
         color: #1B1E1F;
         overscroll-behavior: contain;
+        background-color: #fff;
         @media (max-width: 48em) {
             max-height: auto;
             padding-left: 0rem;
